@@ -36,14 +36,6 @@
     transform: rotate(360deg);
   }
 }
-body{
-  background-color: yellowgreen;
-}
-h1 {
-  font-size: 3rem;
-  color: pink;
-}
-p {
-  font-size: 1rem;
-  color: red;
+body {
+  background-color: bisque;
 }
